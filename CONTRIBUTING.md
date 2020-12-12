@@ -1,3 +1,6 @@
+## Mail Requests
+Bitte eine Mail an Lieblingskollege schicken lieblings_kollege@mailprovider.com
+
 # Contributing
 
 Your contributions are always welcome!
